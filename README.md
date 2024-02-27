@@ -11,3 +11,4 @@ Fully considering climate comprehensiveness, heterogeneity and zonality, we prop
 1.	Climatological Information Extraction
 2.	Regional heterogeneity Measurement
 3.	Local Climate Regionalization
+See the Article "Local climate Regionalization of the Tibetan Plateau: a data-driven scale-dependent analysis" (under review) for detailed method description. 
